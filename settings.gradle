@@ -1,0 +1,2 @@
+rootProject.name = "biblia-studio"
+include ":app"

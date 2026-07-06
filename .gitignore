@@ -1,0 +1,19 @@
+/build
+/.gradle
+/local.properties
+/.idea
+.DS_Store
+.gradle
+/captures
+.externalNativeBuild
+*/build/
+
+# Android Studio Navigation Editor
+.navigation/
+
+# Kotlin
+*.iml
+
+# Ignore Gradle wrapper jar
+**/gradle-wrapper.jar
+
